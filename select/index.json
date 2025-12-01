@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Blurry Eyes",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2025-12-01T15:58:17.808072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "Michael Patrick Kelly",
+      "has_synced": true,
+      "path": "select/01_Blurry_Eyes_Michael_Patrick_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/02_Blurry_Eyes_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/03_Blurry_Eyes_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/04_Blurry_Eyes_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "Hotel Garuda feat. RUNN",
+      "has_synced": true,
+      "path": "select/05_Blurry_Eyes_Hotel_Garuda_feat._RUNN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blurry Eyes (feat. Runn)",
+      "artist": "Hotel Garuda",
+      "has_synced": true,
+      "path": "select/06_Blurry_Eyes_(feat._Runn)_Hotel_Garuda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blurry eyes",
+      "artist": "Gavin Magnus",
+      "has_synced": true,
+      "path": "select/07_Blurry_eyes_Gavin_Magnus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/08_Blurry_Eyes_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blurry Eyes (Strings Version)",
+      "artist": "高野ふじお",
+      "has_synced": true,
+      "path": "select/09_Blurry_Eyes_(Strings_Version)_高野ふじお.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blurry Eyes (Strings Version-Instrumental)",
+      "artist": "高野ふじお",
+      "has_synced": true,
+      "path": "select/10_Blurry_Eyes_(Strings_Version-Instrumental)_高野ふじお.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "Michael Patrick Kelly",
+      "has_synced": true,
+      "path": "select/11_Blurry_Eyes_Michael_Patrick_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "Rezz & Johnny Goth",
+      "has_synced": true,
+      "path": "select/12_Blurry_Eyes_Rezz_&_Johnny_Goth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blurry Eyes (feat. Johnny Goth)",
+      "artist": "REZZ",
+      "has_synced": true,
+      "path": "select/13_Blurry_Eyes_(feat._Johnny_Goth)_REZZ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "Molyneaux",
+      "has_synced": true,
+      "path": "select/14_Blurry_Eyes_Molyneaux.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/15_Blurry_Eyes_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/16_Blurry_Eyes_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/17_Blurry_Eyes_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_Blurry_Eyes_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_02_Blurry_Eyes_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_03_Blurry_Eyes_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Blurry Eyes (feat. Runn)",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_04_Blurry_Eyes_(feat._Runn)_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Blurry Eyes",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_05_Blurry_Eyes_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
